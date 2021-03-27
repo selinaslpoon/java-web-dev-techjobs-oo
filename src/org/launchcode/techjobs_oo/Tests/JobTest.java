@@ -5,7 +5,6 @@ import org.launchcode.techjobs_oo.Main.*;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.*;
-//import static org.junit.Assert.*;
 
 public class JobTest {
 
